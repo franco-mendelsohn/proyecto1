@@ -9,6 +9,7 @@
       transition: all 0.3s ease-out;
       margin-top: 50px;
       margin-bottom: 20px;
+     
       display: block;
   }
   
@@ -16,6 +17,7 @@
       display: flex;
       flex-wrap: wrap;
       justify-content: space-between;
+     
   }
   
   .contenedor-cards .contenedor-card-item {
