@@ -9,7 +9,6 @@
       transition: all 0.3s ease-out;
       margin-top: 50px;
       margin-bottom: 20px;
-     
       display: block;
   }
   
@@ -17,7 +16,6 @@
       display: flex;
       flex-wrap: wrap;
       justify-content: space-between;
-     
   }
   
   .contenedor-cards .contenedor-card-item {
@@ -87,14 +85,12 @@
   
   .contenedor-card-item .contenedor-info .info .titulo {
     margin: 0;
-    margin-top:-10px;
     font-size: 20px;
   }
   
   .contenedor-card-item .contenedor-info .info .categoria {
       display: block;
       font-size: 10px;
-      margin-top:-10px;
   }
   
   .contenedor-card-item:hover .contenedor-info {
